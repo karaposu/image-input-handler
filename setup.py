@@ -43,7 +43,7 @@ setup(
     url='https://github.com/karaposu/image-input-handler',  # URL to the repository
     packages=find_packages(),  # Automatically find packages in the directory
     install_requires=[
-        'numpy', 'opencv-python', 'Pillow', 'urllib3', 'base64', 're'  # List of dependencies
+        'numpy', 'opencv-python', 'Pillow', 'urllib3'  # List of dependencies
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',  # Development status
