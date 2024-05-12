@@ -34,13 +34,13 @@ import os
 
 setup(
     name='image_input_handler',  # Package name
-    version='0.2.0',  # Version of your package
+    version='0.2.4',  # Version of your package
     author='Enes Kuzucu',  # Your name
 
     description='A module to handle different formats of image input',  # Short description
     long_description=open('README.md').read(),  # Long description from a README file
     long_description_content_type='text/markdown',  # Type of the long description
-    url='https://github.com/karaposu/image-input-handler',  # URL to the repository
+#     url='https://github.com/karaposu/image-input-handler',  # URL to the repository
     packages=find_packages(),  # Automatically find packages in the directory
     install_requires=[
         'numpy', 'opencv-python', 'Pillow', 'urllib3'  # List of dependencies
