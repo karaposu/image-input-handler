@@ -33,7 +33,7 @@ import os
 
 
 setup(
-    name='universal_image_input_handler',  # Package name
+    name='image_input_handler',  # Package name
     version='0.1.0',  # Version of your package
     author='Enes Kuzucu',  # Your name
 
