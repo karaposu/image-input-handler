@@ -5,7 +5,7 @@ import os
 
 setup(
     name='image_input_handler',  # Package name
-    version='0.2.5',  # Version of your package
+    version='0.4.0',  # Version of your package
     author='Enes Kuzucu',  # Your name
 
     description='A module to handle different formats of image input',  # Short description
